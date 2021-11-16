@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="UTest" skipped="0" tests="1" time="90.23" timestamp="2021-11-16 08:25:16"><testcase name="Automatic registration"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+co.com.dmvs.proyecto.task.StepComplete.performAs(StepComplete.java:20)&#13;
+co.com.dmvs.proyecto.stepdefinitions.ChourcairAcademyStepDefinitions.youEnterTheDataRequestedForRegistration(ChourcairAcademyStepDefinitions.java:27)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
